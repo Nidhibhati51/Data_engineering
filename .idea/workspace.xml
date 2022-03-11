@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="191d3cdb-b142-4f8f-ad75-a94627dcc198" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipython/profile_default/history.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.ipython/profile_default/history.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jupyter/lab/workspaces/lab-a511.jupyterlab-workspace" beforeDir="false" afterPath="$PROJECT_DIR$/.jupyter/lab/workspaces/lab-a511.jupyterlab-workspace" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.local/share/jupyter/nbsignatures.db" beforeDir="false" afterPath="$PROJECT_DIR$/.local/share/jupyter/nbsignatures.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux_sql/sql/.queries.sql.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux_sql/sql/ddl.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux_sql/sql/queries.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux_sql/scripts/host_info.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../linux_sql/scripts/host_info.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux_sql/scripts/host_usage.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../linux_sql/scripts/host_usage.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux_sql/scripts/plsql_docker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../linux_sql/scripts/plsql_docker.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
