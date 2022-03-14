@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="191d3cdb-b142-4f8f-ad75-a94627dcc198" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../linux_sql/sql/.queries.sql.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linux_sql/sql/ddl.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../linux_sql/sql/queries.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linux_sql/scripts/host_info.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../linux_sql/scripts/host_info.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linux_sql/scripts/host_usage.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../linux_sql/scripts/host_usage.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linux_sql/scripts/plsql_docker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../linux_sql/scripts/plsql_docker.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/.ipynb_checkpoints/customer-segmentation-with-rfm-score-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/.ipynb_checkpoints/data_wrangling_learning-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/.ipynb_checkpoints/retail_data_analytics_wrangling-Copy1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/.ipynb_checkpoints/retail_data_analytics_wrangling_question-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/customer-segmentation-with-rfm-score.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/data/data_explore.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/data/grades.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/data/online_retail_II.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/data/retail.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/data_wrangling_learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_data_wrangling/retail_data_analytics_wrangling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_data_wrangling1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +30,7 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
