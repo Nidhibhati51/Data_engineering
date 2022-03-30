@@ -5,7 +5,7 @@ This tool's purpose is to assist the LCA team to adequately plan future resource
 ## Architecture and Diagram
 Here is an architectural diagram that shows a high level overview of this Project:
 
-![mage](/home/centos/dev/jarvis_data_eng_Nidhi/linux_sql/architecture_diagram.png)
+![mage](/home/centos/dev/jarvis_data_Nidhi/jarvis_data_eng_NidhiBhati/linux_sql/architecture_diagram.png)
 
 A psql instance that is stored on Server 1 is used to persist all the required data. The bash agent on each server gather and insert that data into the psql instance. Below is information on each file in the file directory (bash scripts and sql queries)
 
