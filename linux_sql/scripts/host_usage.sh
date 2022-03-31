@@ -1,5 +1,9 @@
 #! /bin/bash
-
+# Validate arguments
+if [ "$#" -ne 5 ]; then
+    echo "Error: Illegal number of parameters. Needs exactly 5"
+    exit 1
+fi
 # Setup arguments
 psql_host=$1
 port=$2
