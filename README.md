@@ -1,6 +1,6 @@
 # Nidhi Bhati . Jarvis Consulting
 
-I am a new graduate from University of Ottawa, where I earned my Masters in Electrical and Computer Engineering. I studied computer science as my major.During my university years, I had opportunities to work with professional teams as a research student to build a solid programming foundation and explore my interest in data analysis and engineering. Besides, I am also a team player and an  adaptable person, who will mold as the situation demands. I joined the Jarvis Consulting Group a few months after graduating and began training for a Data Engineering position. Right now, I am looking for a position at a company where I can put the skills I have learned to good use, while hopefully also continuing to learn so that I might better myself further.
+I am a new graduate from University of Ottawa, Here, I earned my Masters in Electrical and Computer Engineering. I studied computer science as my major.During my university years, Being a research student, I got the opportunity to work with different professional teams which helps me build a solid programming foundation and explore my interest in data analytics and engineering. Besides this, I am also a team player and an adaptable person, who will mold as the situation demands. I joined the Jarvis Consulting Group a few months after graduating and began my training for a Data Engineering position. Right now, I am looking for a position at a reputated company, where I can put the skills I have learned to good use and help company's business grow better.
 
 ## Skills
 
